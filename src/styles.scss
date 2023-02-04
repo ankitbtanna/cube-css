@@ -11,3 +11,9 @@ body {
 html {
   font-size: var(--base-font-size);
 }
+
+/* Font */
+// Font-family gets inherited from body by all elements
+body {
+  font-family: 'Roboto', sans-serif;
+}

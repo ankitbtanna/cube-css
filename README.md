@@ -19,3 +19,14 @@ Run `npx nx connect-to-nx-cloud` to enable [remote caching](https://nx.app) and 
 ## Further help
 
 Visit the [Nx Documentation](https://nx.dev) to learn more.
+
+✅ CUBE CSS Documentation: https://cube.fyi/
+✅ The Design I'm working on: https://www.frontendmentor.io/challen...
+✅ Andy Bell's CSS reset: https://piccalil.li/blog/a-modern-css...
+✅ Written overview of CUBE: https://piccalil.li/blog/cube-css/
+✅ My look at BEM: https://youtu.be/SLjHSVwXYq4
+✅ Custom Properties: https://youtu.be/PHO6TBq_auI
+✅ Logical properties: https://youtu.be/kzvmaVik4mA
+✅ The :where() selector: https://youtu.be/pvH35ZFPbc4
+
+<a alt="Nx logo" href="https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj" target="_blank" rel="noreferrer"><img src="" width="500"></a>
