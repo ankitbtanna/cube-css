@@ -1,0 +1,13 @@
+@import 'reset/main.scss';
+
+html,
+body {
+  height: 100dvh;
+  width: 100dvw;
+
+  --base-font-size: 10px;
+}
+
+html {
+  font-size: var(--base-font-size);
+}
